@@ -240,3 +240,23 @@ I plan to improve the project by:
  15. License
 
 This project is available under the MIT License. See the `LICENSE` file for details.
+
+ Project Visuals
+
+ 1. Dataset Preview
+![Dataset Preview](images/dataset_preview.png)
+
+ 2. Area vs Sale Price
+![Area vs Sale Price](images/area_vs_price.png)
+
+ 3. Bedrooms vs Sale Price
+![Bedrooms vs Sale Price](images/bedrooms_vs_price.png)
+
+ 4. Actual vs Predicted Prices
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+ 5. Model Evaluation
+![Model Evaluation](images/model_evaluation.png)
+
+ 6. Project Workflow
+![Project Workflow](images/project_workflow.png)
