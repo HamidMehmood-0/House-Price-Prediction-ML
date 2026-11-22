@@ -136,21 +136,23 @@ I used three regression metrics to evaluate the model.
 
 | Metric | Result |
 |---|---:|
-| MAE | $7,310.42 |
-| RMSE | $8,176.40 |
+| MAE | 7,310.42 USD |
+| RMSE | 8,176.40 USD |
 | R² Score | 0.9944 |
+
+MAE and RMSE are measured in USD because the target variable represents house prices in USD. R² Score is unitless and indicates how well the model explains the variation in house prices.
 
  What do these metrics mean?
 
-Mean Absolute Error (MAE)**
+Mean Absolute Error (MAE)
 
-MAE calculates the average absolute difference between actual and predicted prices. In this run, the average absolute error was approximately $7,310.42.
+MAE calculates the average absolute difference between actual and predicted prices. In this run, the average absolute error was approximately USD 7,310.42.
 
-Root Mean Squared Error (RMSE)**
+Root Mean Squared Error (RMSE)
 
 RMSE measures prediction error while giving larger errors more weight. The result in this run was approximately $8,176.40.
 
-R² Score**
+R² Score
 
 R² indicates how well the model's predictions fit the target values in the test data. The score in this run was 0.9944.
 
