@@ -150,7 +150,7 @@ MAE calculates the average absolute difference between actual and predicted pric
 
 Root Mean Squared Error (RMSE)
 
-RMSE measures prediction error while giving larger errors more weight. The result in this run was approximately $8,176.40.
+RMSE measures prediction error while giving larger errors more weight. The result in this run was approximately USD 8,176.40.
 
 R² Score
 
