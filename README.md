@@ -260,3 +260,24 @@ This project is available under the MIT License. See the `LICENSE` file for deta
 
  6. Project Workflow
 ![Project Workflow](images/project_workflow.png)
+
+ Running the Application
+
+Follow these steps to run the project locally.
+
+ 1. Install the required libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+ 2. Start the Streamlit application
+
+```bash
+streamlit run app/app.py
+```
+
+The application will open in your browser.
+
+Note: The project currently uses a small synthetic dataset for demonstration purposes.
+
