@@ -97,8 +97,10 @@ try:
     col1, col2, col3 = st.columns(3)
 
     col1.metric("MAE", f"{metrics['MAE']:,.2f} USD")
-   col2.metric("RMSE", f"{metrics['RMSE']:,.2f} USD")
+    col2.metric("RMSE", f"{metrics['RMSE']:,.2f} USD")
     col3.metric("R² Score", f"{metrics['R2 Score']:.4f}")
+   
+    
 
     st.caption(
         "This project uses a small synthetic dataset. "
