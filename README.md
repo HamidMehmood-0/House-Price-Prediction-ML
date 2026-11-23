@@ -1,4 +1,10 @@
  House Price Prediction using Machine Learning
+ 🚀 Live Demo
+
+You can try the live House Price Prediction application here:
+
+👉 [Open House Price Prediction App](https://house-price-prediction-ml-wk2mpgflpkecrjndkzuu5n.streamlit.app/)
+
 
  1. About the Project
 
